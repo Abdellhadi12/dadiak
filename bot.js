@@ -8,6 +8,7 @@ client.on('ready', () => {
 client.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(`**
+     SAD DISCORD SERVER 
       كلنا نحتاج مكان نرتاح فيه 
        ونعبر عن الاحزان داخلنا !
           سيرفر حق فيديوهات محزنة وصور 
@@ -22,6 +23,7 @@ client.on("guildMemberAdd", member => {
 client.on("guildMemberRemove", member => {
   member.createDM().then(function (channel) {
   return channel.send(`**
+     SAD DISCORD SERVER 
      كلنا نحتاج مكان نرتاح فيه 
        ونعبر عن الاحزان داخلنا !
           سيرفر حق فيديوهات محزنة وصور 
